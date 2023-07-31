@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is MARIYALA ROHITH
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'am MARIYALA ROHITH
 =======================================================================================================================================
 
 Student and Self Explorer...
@@ -8,8 +8,8 @@ I am a joy full learner, I learn everything with interest and focus.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [mariyalarohith29@gmail.com](mailto:mariyalarohith29@gmail.com)
-* 🧠  I'm learning HTML
 * 🤝  I'm open to collaborating on Web Development
+* 🧠  I'm learning HTML
 * ⚡  I am good at problem solving
 
 <a href="https://www.twitter.com/MariyalRohith" target="_blank" rel="noreferrer"><img
