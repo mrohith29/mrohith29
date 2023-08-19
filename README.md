@@ -9,7 +9,7 @@ I am a joy full learner, I learn everything with interest and focus.
 * 🌍  I'm based in India
 * ✉️  You can contact me at [mariyalarohith29@gmail.com](mailto:mariyalarohith29@gmail.com)
 * 🤝  I'm open to collaborating on Web Development
-* 🧠  I'm learning HTML
+* 🧠  I'm learning CSS
 * ⚡  I am good at problem solving
 
 <a href="https://www.twitter.com/MariyalRohith" target="_blank" rel="noreferrer"><img
