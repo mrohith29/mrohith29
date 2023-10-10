@@ -18,7 +18,7 @@
 - ✉️ You can contact me at [mariyalarohith29@gmail.com](mailto:mariyalarohith29@gmail.com)
 - 🤝 I'm open to collaborating on Web Development
 - 🧠 I'm learning JAVA
-- ⚡ I am good at problem-solving
+<!-- - ⚡ I am good at problem-solving -->
 
 ---
 
