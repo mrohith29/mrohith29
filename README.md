@@ -65,4 +65,4 @@
 ### Support Me
 <a href="https://www.buymeacoffee.com/mariyalaro4"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
-[![An image of @hello's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hello)](https://holopin.io/@hello)
+[![An image of @mrohith29's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mrohith29)](https://holopin.io/@mrohith29)
