@@ -61,8 +61,8 @@
 
 ---
 [![Mariyala Rohith's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrohith29)](https://github.com/mrohith29/github-readme-stats)
-
-
+---
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mrohith29)](https://git.io/streak-stats)
 ---
 
 <!-- Support Me -->
