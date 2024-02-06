@@ -13,3 +13,6 @@
 ### Hobbies
 
 * I love coding and learning new things.
+
+
+[![wakatime](https://wakatime.com/badge/user/451cc8bf-5caa-4a73-994a-c86238c69e56.svg)](https://wakatime.com/@451cc8bf-5caa-4a73-994a-c86238c69e56)
