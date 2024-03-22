@@ -19,3 +19,6 @@
 
 
 [![wakatime](https://wakatime.com/badge/user/451cc8bf-5caa-4a73-994a-c86238c69e56.svg)](https://wakatime.com/@451cc8bf-5caa-4a73-994a-c86238c69e56)
+
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@mrohith29/548dc3a9-9f43-4fef-a0d8-331a96a699ae.png" /></a>
