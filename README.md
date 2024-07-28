@@ -1,4 +1,4 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm <p style="color: #FFD700;">Mariyala Rohith!</p> <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Mariyala Rohith! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -7,7 +7,7 @@
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mrohith29?label=Follow)](https://twitter.com/intent/follow?screen_name=mrohith29)
-[![Linkedin: anmol](https://img.shields.io/badge/-mariyalarohith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/mariyala-rohith/)
+[![Linkedin: rohith](https://img.shields.io/badge/-mariyalarohith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariyala-rohith/)](https://www.linkedin.com/in/mariyala-rohith/)
 ![GitHub followers](https://img.shields.io/github/followers/mrohith29?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://rohithmariyala.netlify.app/)](https://rohithmariyala.netlify.app/)
 
@@ -26,12 +26,17 @@ npx mrohith29
 
 **Follow this [video](./tutorial_sec.mp4) if it doesn't work**
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
 ```javascript
 const Rohith = {
     pronouns: "He" | "Him",
     code: ["Python", "Java", "PHP", "C"],
     askMeAbout: ["web dev", "tech", "travel", "motivation 😉"],
     technologies: {
+        frontEnd: {
+            html: [Native ,"Astro"],
+        },
         backEnd: {
             js: ["Node"],
             python: ["Flask"],
