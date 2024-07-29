@@ -54,7 +54,6 @@ const Rohith = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
-<!--START_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=mrohith29&label=PROFILE+VIEWS)
 
@@ -71,6 +70,7 @@ const Rohith = {
 > 🔑 12 Private Repositories 
  > 
 
-
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@mrohith29/548dc3a9-9f43-4fef-a0d8-331a96a699ae.png" /></a>
