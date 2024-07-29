@@ -24,7 +24,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 npx mrohith29
 ```
 
-**Follow this [video](./tutorial_sec.mp4) if it doesn't work**
+**Follow this [video](./tutorial_sec.gif) if it doesn't work**
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
