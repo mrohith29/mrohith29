@@ -55,7 +55,7 @@ const Rohith = {
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=mrohith29&icon=5&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=mrohith29&label=PROFILE+VIEWS)
 
 [![wakatime](https://wakatime.com/badge/user/451cc8bf-5caa-4a73-994a-c86238c69e56.svg)](https://wakatime.com/@451cc8bf-5caa-4a73-994a-c86238c69e56)
 
