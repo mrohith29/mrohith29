@@ -64,11 +64,7 @@ const Rohith = {
 **🐱 My GitHub Data** 
 
 > ✅ Opted to Get Hired
- > 
-> 📜 53 Public Repositories 
- > 
-> 🔑 12 Private Repositories 
- > 
+  > 
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
