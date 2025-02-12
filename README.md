@@ -72,14 +72,14 @@ const Rohith = {
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-### 🧑‍💻 **Tech Stack**
+<!--### 🧑‍💻 **Tech Stack**
 
 - **Frontend:** ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 - **Backend:** ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 - **DevOps:** ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 - **Databases:** ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 - **Misc:** ![OpenCV](https://img.shields.io/badge/open%20cv-%23ffcd00.svg?style=for-the-badge&logo=opencv&logoColor=black) ![Transformers](https://img.shields.io/badge/Transformers-%2331A8FF.svg?style=for-the-badge&logo=huggingface&logoColor=white)
-
+-->
 ---
 
 ### 🌱 **Currently Learning**
@@ -89,6 +89,6 @@ const Rohith = {
 ---
 
 ### 🎨 Fun Facts
-- 🌎 I love traveling and have visited 0 countries!
+- 🌎 I love traveling and have visited so many places in India!
 - 🍲 Passionate about eating (ask me for my favorite foods!)
-- 📚 Avid reader, currently reading *Atomic Habits* by James Clear
+- 📚 Avid reader, currently reading *Nothing*
