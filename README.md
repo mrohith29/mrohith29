@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Software Developer at <a href="https://orchestrationsyndicate.com/">Orchestration Syndicate</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+<p><em>Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mrohith29?label=Follow)](https://twitter.com/intent/follow?screen_name=mrohith29)
 
@@ -38,18 +38,18 @@ const Rohith = {
     askMeAbout: ["web dev", "tech", "travel", "motivation 😉"],
     technologies: {
         frontEnd: {
-            html: ["Native", "Astro"],
+            html: ["Native"],
         },
         backEnd: {
-            js: ["Node"],
-            python: ["Flask"],
+            js: ["React"],
+            python: ["FastAPI", "Flask"],
         },
         devOps: ["Docker🐳"],
-        databases: ["MySQL"],
+        databases: ["PostgreSQL"],
         misc: ["selenium", "open-cv", "transformers", "numpy", "pandas"]
     },
     currentFocus: "To be consistent with my work",
-    funFact: "You can learn a new thing only if you really want to (cring³)"
+    funFact: "You can learn a new thing only if you really want to!"
 };
 ```
 
